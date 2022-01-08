@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dilyes/dilyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+----------------------------------------
+<span>Daniel, Hello World! 👋</span>
+----------------------------------------
+</pre>
 
-Here are some ideas to get you started:
+I'm a software developer, I currently work with [Flutter](https://flutter.dev/) and [NodeJS](https://expressjs.com/) to create great applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilyes&layout=compact&hide=html" alt="dilyes" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=dilyes&show_icons=true" alt="dilyes" /></div>
