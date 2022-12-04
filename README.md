@@ -37,3 +37,12 @@ I'm a software developer, I currently work with [Flutter](https://flutter.dev/) 
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black&style=flat)
 
+<h3 align="left">Interested in other tech like</h3>
+<br>
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-%fffff?logo=firebase&logoColor=%23F7DF1E&style=flat)
+
